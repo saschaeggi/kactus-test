@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "6508C1BA-3684-41E9-B018-A052435F5140",
+  "do_objectID": "D3742A23-43AC-445D-A2DE-57B5DC843955",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1000,
     "width": 1000,
-    "x": 401,
+    "x": 1501,
     "y": 322
   },
   "hasBackgroundColor": false,
@@ -43,14 +43,14 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "3D6AE642-4362-4100-AB57-452291C583C5"
+      "id": "4F5BFB49-08FB-4E5E-A3E3-6A2F485A408E"
     },
     {
       "class": "shapeGroup",
-      "id": "B41ED164-25DA-46FB-A075-34C84EDB7362"
+      "id": "9EF877AA-FDE5-44AB-AAF5-D1275F18E2AD"
     }
   ],
-  "name": "Test 1",
+  "name": "Test 2",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

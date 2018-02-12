@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "3D6AE642-4362-4100-AB57-452291C583C5",
+  "do_objectID": "9EF877AA-FDE5-44AB-AAF5-D1275F18E2AD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 462,
-    "width": 462,
-    "x": 164,
-    "y": 164
+    "height": 425,
+    "width": 425,
+    "x": 465,
+    "y": 75
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,11 +28,11 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "oval",
-      "id": "1E4BA3E5-3992-43F8-852C-30D8078BBA38"
+      "class": "rectangle",
+      "id": "DDAB44E5-4299-4A8D-A8AA-92B28C41D485"
     }
   ],
-  "name": "Oval",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,25 +40,23 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
-    "fills": [
+    "borders": [
       {
-        "_class": "fill",
+        "_class": "border",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8668951955782312,
-          "green": 0.4321717365847115,
-          "red": 0.1675368003449406
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
         "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
+        "position": 1,
+        "thickness": 20
       }
     ],
+    "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
@@ -67,15 +65,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 462,
+            "constant": 425,
             "enabled": 1,
-            "modelID": "constraint_45151624-1c77-42a6-9cfd-064eb9d4cb5f",
+            "modelID": "constraint_32df6bbc-bcad-4e3f-86cb-2b0d1e8da944",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 462
+            "multiplier": 425
           },
           "automatic": 1,
-          "modelID": "viewConstraints_ad34906d-5063-446f-ab0c-6e8954eae2cc",
+          "modelID": "viewConstraints_6512daf4-8073-437e-8355-4421472fa0bc",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1
